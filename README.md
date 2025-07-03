@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/collinswarui">
     <img src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://collinssswm.me">
+    <img src="https://img.shields.io/badge/🌐-Website-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
 </p>
 
 ---
@@ -49,10 +52,11 @@
 
 ---
 
-
 ## 🤝 Let’s Chat
 - ✉️ collinswaruim@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/collinswarui)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/collinswarui)  
+- 🌐 [Website](https://collinssswm.me)
+
 
 ---
 
