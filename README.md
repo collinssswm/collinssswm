@@ -45,11 +45,11 @@
 ---
 
 ## 🎉 What I’m Into
-- 🏀 Basketball (air dribbles only 😏)  
-- 🎵 Music (from chill lo-fi to head-banging rock 🤘)  
+- 🏀 Basketball  
+- 🎵 Music (from chill lo-fi to cool amapiano) 
 - 🌍 Contributing to open source (and occasionally causing chaos)  
-- 📚 Learning the next shiny thing (and side-eyeing the old ones 🙄)
-
+- 📚 Learning the next thing
+  
 ---
 
 ## 🤝 Let’s Chat
@@ -64,4 +64,4 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJvNjVoMmlhOWdoZHFmaTNmaHE1ZDE5dmtoa3FrNDlneDd0MnIxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiVuBnlAnLqSEhA8iz/giphy.gif" width="140" alt="Thank You GIF">
 </p>
 
-<p align="center"><em>Thanks for dropping by! Don’t be a stranger 😉😈🧛‍♂️</em></p>
+<p align="center"><em>Thanks for dropping by! Don’t be a stranger 😈🧛‍♂️</em></p>
