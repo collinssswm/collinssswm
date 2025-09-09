@@ -2,6 +2,10 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxzM3AwdDc2ZzE1OHBwMWRhN3V3eHcxc201YmtvM2hzNmMzcHBnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif" width="180" alt="Welcome GIF">
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=collinssswm&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
+</p>
+
 
 <h1 align="center">Hey there, I’m Collins Warui 😉🧛‍♂️</h1>
 
@@ -41,6 +45,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> 
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=collinssswm&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=collinssswm&theme=radical" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinssswm&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
 
 ---
 
@@ -59,6 +72,7 @@
 
 
 ---
+
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJvNjVoMmlhOWdoZHFmaTNmaHE1ZDE5dmtoa3FrNDlneDd0MnIxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiVuBnlAnLqSEhA8iz/giphy.gif" width="140" alt="Thank You GIF">
